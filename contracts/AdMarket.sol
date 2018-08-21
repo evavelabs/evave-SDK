@@ -470,3 +470,4 @@ contract AdMarket is ECVerify {
     return h == root;
   }
 }
+
