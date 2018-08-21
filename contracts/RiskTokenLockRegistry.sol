@@ -49,3 +49,4 @@ contract RiskTokenLockRegistry is TokenLockRegistry {
         token.safeTransfer(penaltyBeneficiary, loseAmount);
     }
 }
+
